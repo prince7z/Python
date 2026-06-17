@@ -122,7 +122,5 @@ def run_code_agent(user_query, max_iterations=15, verbose=True):
 
 
 result = run_code_agent(
-    "Write a Python function called 'is_prime(n)' that checks if a number is prime. "
-    "Save it to 'prime.py'. Then write a test script that imports it and tests with: "
-    "1, 2, 13, 15, 97, 100. Print the results."
+"i have installed the pandas chek the file and run the function to create the exel sheet , get the files info first then run the function"
 )
